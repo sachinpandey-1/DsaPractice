@@ -48,7 +48,7 @@ public class FourSum {
         return answer;
     }
 
-    public static void main(String[]args
-        List<List<Integer>> result = FourSum.sum(arr);
-    }
+//    public static void main(String[]args
+//        List<List<Integer>> result = FourSum.sum(arr);
+//    }
 }
